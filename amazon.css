@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid black;
+    padding: 10px;
+    height: 565px;
+    width: 350px;
+    border-radius: 16px;
+    margin: auto;
+    position: absolute;
+    top: 200px;
+    left: 850px;
+}
+button{
+    background-color: orange;
+    color:black;
+    height: 38px;
+    width: 350px;
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: #ccc;
+
+}
+img{
+    border-radius: 14px;
+    margin: auto;
+    position: absolute;
+    top: 30px;
+    left: 850px;
+   
+}
+boby{
+    background-image:url(image/download.png) ;
+}
+input{
+    height: 33px;
+    width: 320px;
+    border-radius: 10px;
+    border-color: #ccc;
+    box-shadow: 0px;
+}
